@@ -16,20 +16,34 @@ body {
     width: 85%;
 }
 
+h1{
+    text-align: center;
+    color: olive
+}
+
+h2 {
+    text-align: center;
+    color: olive;
+}
+
 h3 {
     color: goldenrod;
-    align-content: center;    
 }
 
 p {
-    align-content: center;
+    font-size: large;
+}
+
+ul {
     font-size: large;
 }
 
 article {
-    border: 10px double darkolivegreen;
+    border: 10px double olive;
+    text-align: center;
 }
 
 footer {
-    color: olive
+    color: darkolivegreen;
+    text-align: center;
 }
